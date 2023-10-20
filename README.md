@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*e-CnQ3XcOSjznpnBhMXQKg.gif)]
 
 <h1 align="center">Hi 👋, I'm Abdo Fared</h1>
-<h3 align="center">A passionate Software developer from Egypt (🇪🇬)🐫</h3>
+<h3 align="center">A passionate Software developer from Egypt (🇪🇬)🐫 <br> Specialist at React JS</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abd0000&label=Profile%20views&color=0e75b6&style=flat" alt="abd0000" /> </p>
